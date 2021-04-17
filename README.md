@@ -1,9 +1,4 @@
 # Vue.js 移动端项目——黑马头条
-
-## 扫码体验
-
-<img src="./public/qrcode_toutiao.m.lipengzhou.com.png" width="200" />
-
 ## 相关资源
 
 - GitHub 仓库：https://github.com/lipengzhou/topline-m
@@ -57,17 +52,6 @@
   - [ ] 点赞通知
   - [ ] 评论通知
   - [ ] 关注通知
-
-## 一些计划
-
-- [ ] 动画交互
-- [ ] 黑暗模式
-- [ ] 发布 Android App
-- [ ] 发布 iOS App
-- [ ] 小程序 App
-- [ ] Flutter App
-- [ ] 重写后端接口
-
 ## 本地开发
 
 ```sh
